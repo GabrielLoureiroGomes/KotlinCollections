@@ -1,4 +1,6 @@
-fun main() {
+package collections
+
+fun testaSet() {
     val assistiramCursoAndroid: Set<String> = setOf("Gabriel", "Jessica", "Fred", "Gustavo")
     val assistiramCursoKotlin: Set<String> = setOf("Gabriel", "Raimundo", "Maria")
     val assistiramAmbos = mutableSetOf<String>()

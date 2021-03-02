@@ -1,4 +1,4 @@
-package collections
+package set
 
 fun testaSet() {
     val assistiramCursoAndroid: Set<String> = setOf("Gabriel", "Jessica", "Fred", "Gustavo")

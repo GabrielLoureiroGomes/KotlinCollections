@@ -1,4 +1,6 @@
-package collections
+package map
+
+import collections.Pedido
 
 fun testaComportamentosMap() {
     val pedidos: MutableMap<Int, Double> = mutableMapOf(
